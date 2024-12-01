@@ -14,6 +14,9 @@ Este es un proyecto amateur de un **seguidor de línea**
 
 Este proyecto consiste en un robot seguidor de línea que es capaz de seguir una línea trazada en el suelo utilizando sensores ópticos. El robot ajusta su dirección en tiempo real para mantenerse sobre la línea.
 
+# Imagen 
+![Seguidor de Línea](https://github.com/Monsivais14/Seguidor-de-Linea-Amateur/raw/main/Seguidor_Linea.jpg)
+
 ## Instrucciones de montaje
 
 ### Hardware
