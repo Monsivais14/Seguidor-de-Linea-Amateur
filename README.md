@@ -73,21 +73,6 @@ El código implementa un controlador PID básico para permitir que el robot siga
    - **LED de calibración**: Conectado al pin 13.
    - **Botón de inicio**: Conectado al pin 2.
 
-#### Diagrama de conexiones
-
-Incluye el diagrama de conexiones de los sensores y el driver de los motores si es posible.
-
-### Subir el código al Arduino
-
-1. Abre el archivo **QTR8A_3.ino** en el entorno de desarrollo de Arduino (IDE de Arduino).
-2. Conecta tu Arduino Nano al PC y selecciona el puerto adecuado en el IDE.
-3. Haz clic en "Subir" para cargar el código en tu Arduino.
-
-## Archivos
-
-- **Modelo 3D del chasis**
-- **Código fuente de Arduino**: [QTR8A_3.ino](enlace)
-
 ## Cómo funciona
 
 El robot utiliza los 8 sensores de la regleta QTR-8A para detectar la línea. El código procesa las lecturas de los sensores y ajusta los motores en consecuencia. Si el robot se desvía hacia un lado, el código corrige la dirección para mantener el seguimiento de la línea.
