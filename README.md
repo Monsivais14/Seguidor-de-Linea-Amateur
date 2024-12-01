@@ -1,6 +1,6 @@
 # Proyecto Seguidor de Línea 
 
-Este es un proyecto amateur de un **seguidor de línea** utilizando un **Arduino Nano**, una **regleta QTR-8A de Pololu (versión mejorada por e-Robots)**, un **driver DRV8833** y baterías **18650 (3x12V)**. El chasis fue diseñado en **SolidWorks** y fabricado en **PLA**.
+Este es un proyecto amateur de un **seguidor de línea** 
 
 ## Componentes
 
